@@ -4,7 +4,7 @@
 <p align-center> DISCOVERY BEHAVIORAL BANKING
 
 ![](/Users/garcia/Desktop/RICE/HW1-Renata-Discovery-Bank/photos/cs.png)
-
+![](/Users/garcia/Desktop/RICE/HW1-Renata-Discovery-Bank/photos/cs.png)
 
 
 

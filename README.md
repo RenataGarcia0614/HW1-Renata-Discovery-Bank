@@ -3,7 +3,9 @@
 <h1> Renata Garcia
 <p align-center> DISCOVERY BEHAVIORAL BANKING
 
-<img src="cs">
+![](/Users/garcia/Desktop/RICE/HW1-Renata-Discovery-Bank/photos/cs.png)
+
+![](/Users/garcia/Desktop/RICE/HW1-Renata-Discovery-Bank/photos/cs.png)
 
 
 ## Overview and Origin
